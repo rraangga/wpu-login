@@ -1,2 +1,0 @@
-# wpu-login
-login page
